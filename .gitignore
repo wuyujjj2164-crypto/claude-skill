@@ -1,0 +1,10 @@
+Claude源码.zip
+Claude源码_extracted/
+.trae/documents/
+*.zip
+*.tgz
+*.exe
+*.map
+node_modules/
+.DS_Store
+Thumbs.db
